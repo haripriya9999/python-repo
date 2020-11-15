@@ -2,22 +2,16 @@
 
 Simple project. I created these program after finished learning Python from a [book](https://inventwithpython.com/) and [YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6).
 
-## Simple Calculator
+## [Simple Calculator](Simple Calculator)
 
 Basically a calculator that performs very basic calculation such as addition, substraction bla3.:grimacing:
 
 [Here the C++ version](https://github.com/fareezMaple/cpp_Project/tree/master/simple%20calculator)
 
-## ToDo list project
+## [ToDo list project](ToDo List Project)
 
 Add item, view item, remove item and others. :wink:
 Similar to the one [I built with C++](https://github.com/fareezMaple/cpp_Project/tree/master/todoList)
-
-## Pygame (unfinished)
-
-This is base on [tutorial playlist](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lp3jAExUCewBfMx3UZFkh5) made by [Tech With Time](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) in found in YouTube.
-
-Didn't manage to complete because im lazy
 
 ### Footnote
 
